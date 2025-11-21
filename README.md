@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - email: mukmulpasta@naver.com
 - Education: Soongsil univ, Seoul, Computer Science
 
-#### Employment history
+### Employment history
   - Jam2in, Intern, Sep 26 ~ present
 
-#### Extra
+### Extra
   - 정보처리기사
   - TOPCIT lv3
   - SAP ABAP cloud developer
