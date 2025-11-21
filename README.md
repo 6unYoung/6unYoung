@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=soft)
 
-## Hi there 👋
+## Who is me..
 
 <!--
 **6unYoung/6unYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
