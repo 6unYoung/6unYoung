@@ -27,10 +27,11 @@ Here are some ideas to get you started:
   - 정보처리기사
   - TOPCIT lv3
   - SAP ABAP cloud developer
-
+<!--
 ## Tech stack
 ### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6unYoung)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6unYoung)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6unYoung&commits_year=2025)
+--!>
