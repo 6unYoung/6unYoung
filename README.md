@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## Tech stack
 ### Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6unYoung)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://6unyoung-github-readme-stats.vercel.app/api/top-langs/?username=6unYoung&layout=compact)](https://github.com/6unYoung)
 
 ### Github stats
-[![6unYoung's GitHub stats](https://6unyoung-github-readme-stats.vercel.app/api?username=6unYoung&show_icons=true)](https://github.com/6unYoung)
+[![6unYoung's GitHub stats](https://6unyoung-github-readme-stats.vercel.app/api?username=6unYoung&show_icons=true&year=2025)](https://github.com/6unYoung)
