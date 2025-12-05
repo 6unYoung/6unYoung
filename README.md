@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6unYoung)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github stats
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=6unYoung)](https://github.com/6unYoung/github-readme-stats)
+[![6unYoung's GitHub stats](https://6unyoung-github-readme-stats.vercel.app/api?username=6unYoung&show_icons=true)](https://github.com/6unYoung)
